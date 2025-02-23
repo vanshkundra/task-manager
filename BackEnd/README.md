@@ -3,7 +3,7 @@ Task Manager Application - BackEnd
 This is the React.js BackEnd for the Task Manager application. It allows users to add, mark as complete, delete, and filter tasks efficiently.
 
 To run my project-
-1) Clone the repository from :- https://github.com/vanshkundra/task-manager-frontend.git
+1) Clone the repository from :- https://github.com/vanshkundra/task-manager
 2)Install the dependencies ( npm install )
 3)Create a .env file in the root directory and add the following:
 
