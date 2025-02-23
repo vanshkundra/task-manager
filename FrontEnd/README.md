@@ -4,7 +4,11 @@ This is the React.js frontend for the Task Manager application. It allows users 
 
 To run my project-
 1) Clone the repository from :- https://github.com/vanshkundra/task-manager
-2)Install the dependencies ( npm install )
+2)Install the dependencies:=
+ npm install react react-dom axios
+ npm install tailwindcss @tailwindcss/cli
+ npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch
+ npm install 
 3)If you want to configure backend API:-
 const API_URL = "http://localhost:5000/tasks"; // Change if needed
 4) To start the React front end give the command:-

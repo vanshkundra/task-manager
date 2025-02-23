@@ -4,7 +4,10 @@ This is the React.js BackEnd for the Task Manager application. It allows users t
 
 To run my project-
 1) Clone the repository from :- https://github.com/vanshkundra/task-manager
-2)Install the dependencies ( npm install )
+2)Install the dependencies :-
+ npm install express mongoose cors dotenv
+ npm install nodemon
+ npm install 
 3)Create a .env file in the root directory and add the following:
 
 PORT:- // I have added 5000 you can change it//
